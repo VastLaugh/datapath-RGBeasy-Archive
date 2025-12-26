@@ -5,5 +5,6 @@
 
 <h2></h2>
 I am not sure what LICENSE beeanyew had on this so... there isn't one.
-
+Archive is from 11/13/2020 and is the source of build 1 (0.0.1).
+The binary for build 2 x64 is also included in the releases.
 ~ VastLaugh
