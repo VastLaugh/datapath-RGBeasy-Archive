@@ -5,6 +5,13 @@
 
 <h2></h2>
 I am not sure what LICENSE beeanyew had on this so... there isn't one.
+
 Archive is from 11/13/2020 and is the source of build 1 (0.0.1).
-The binary for build 2 x64 is also included in the releases.
+
+I have included both Build 1 and Build 2. Note that these are not compiled from the source code in this archive.
+
+Build 1 was available on r3.fyi and their discord server.
+
+Build 2 i had a personal backup of.
+
 ~ VastLaugh
