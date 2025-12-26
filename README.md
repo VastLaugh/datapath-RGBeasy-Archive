@@ -6,6 +6,7 @@ To compile this, add it to a Visual Studio project or something and make sure yo
 Yay.
 
 ==========
+
 I am not sure what LICENSE beeanyew had on this so... there isn't one.
 
-~ VASTLAUGH
+~ VastLaugh
