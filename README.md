@@ -9,7 +9,7 @@ Archive is from 11/13/2020 and is the source of build 1 (0.0.1).
 
 I have included both Build 1 and Build 2 binaries in the bin folder. Note that these are not compiled from the source code in this archive.
 
-Build 1 was available on <a href="http://r3.fyi/">R³. RGB Retro Resource</a> and their discord server.
+Build 1 was available on <a href="http://r3.fyi/">R³. RGB Retro Resource</a> and their discord server, which is also where these source files was found.
 
 Build 2 i had a personal backup of.
 
